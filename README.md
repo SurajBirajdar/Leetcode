@@ -33,14 +33,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SurajBirajdar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurajBirajdar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0567-permutation-in-string](https://github.com/SurajBirajdar/Leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SurajBirajdar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurajBirajdar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0443-string-compression](https://github.com/SurajBirajdar/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/SurajBirajdar/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/SurajBirajdar/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/SurajBirajdar/Leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/SurajBirajdar/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
