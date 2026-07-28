@@ -60,8 +60,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
