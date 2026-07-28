@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/SurajBirajdar/Leetcode/tree/master/0112-path-sum) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/SurajBirajdar/Leetcode/tree/master/0112-path-sum) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -76,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/SurajBirajdar/Leetcode/tree/master/0112-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/SurajBirajdar/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
