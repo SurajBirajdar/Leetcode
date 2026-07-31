@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SurajBirajdar/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SurajBirajdar/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SurajBirajdar/Leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0216-combination-sum-iii](https://github.com/SurajBirajdar/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/SurajBirajdar/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SurajBirajdar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/SurajBirajdar/Leetcode/tree/master/0567-permutation-in-string) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/SurajBirajdar/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/SurajBirajdar/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
