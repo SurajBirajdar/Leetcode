@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SurajBirajdar/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SurajBirajdar/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SurajBirajdar/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/SurajBirajdar/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/SurajBirajdar/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/SurajBirajdar/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SurajBirajdar/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SurajBirajdar/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SurajBirajdar/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/SurajBirajdar/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SurajBirajdar/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SurajBirajdar/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SurajBirajdar/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SurajBirajdar/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/SurajBirajdar/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Divide and Conquer
